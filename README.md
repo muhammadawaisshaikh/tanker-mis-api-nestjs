@@ -62,3 +62,6 @@ https://docs.nestjs.com/security/cors
 
 ## Creating a Todo model/schema
 npm install --save @nestjs/mongoose mongoose
+
+## Updating NestJS App with latest
+https://blog.bitsrc.io/how-to-update-nest-js-ecd0e9466165
