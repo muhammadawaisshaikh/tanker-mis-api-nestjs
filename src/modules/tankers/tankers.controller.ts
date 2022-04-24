@@ -11,8 +11,10 @@ import {
 import { CreateTankerDto } from 'src/dto/tankers/create-tankers.dto';
 import { UpdateTankerDto } from 'src/dto/tankers/update-tankers.dto';
 import { TankersService } from './tankers.service';
+import { ApiTags } from '@nestjs/swagger';
 
 @Controller('tankers')
+@ApiTags('tankers')
 export class TankersController {
   constructor(private readonly service: TankersService) {}
 
