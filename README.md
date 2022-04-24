@@ -22,6 +22,9 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Postman Collection
+https://www.postman.com/cloudy-eclipse-922541/workspace/my-workspace/collection/7033389-c2c6755d-ef8d-486b-b629-3748b373383e?action=share&creator=7033389
+
 # Guide to Develop Backend using NESTJS
 
 ## Rest API
