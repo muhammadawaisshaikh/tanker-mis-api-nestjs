@@ -65,3 +65,7 @@ npm install --save @nestjs/mongoose mongoose
 
 ## Updating NestJS App with latest
 https://blog.bitsrc.io/how-to-update-nest-js-ecd0e9466165
+
+## Adding Swagger to API
+https://docs.nestjs.com/openapi/introduction
+https://wanago.io/2022/02/14/api-nestjs-openapi-swagger/
