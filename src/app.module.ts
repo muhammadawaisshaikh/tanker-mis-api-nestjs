@@ -11,7 +11,9 @@ import { TankersModule } from './modules/tankers/tankers.module';
 
 @Module({
   imports: [
-    MongooseModule.forRoot(config.mongoURI),
+    MongooseModule.forRoot(config.mongoURI,{
+      dbName: config.db
+    }),
     UsersModule,
     CompaniesModule,
     TankersModule
